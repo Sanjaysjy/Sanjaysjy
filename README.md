@@ -12,15 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysjy&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysjy" /> </p>
 
-- 🔭 I’m currently working on **Node.js.**
+- 🔭 I’m currently working on :<br>**Node.js.**<br><br>
 
-- 🌱 I’m currently learning **Advanced AWS Services.**
+- 🌱 I’m currently learning :<br>**Advanced AWS Services.**<br><br>
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on :<br>**Fullstack projects**<br><br>
 
-- 💬 Ask me about **JavaScript, Python, C, React, Node.js, Hardware components and software development related things. .**
+- 💬 Ask me about :<br>**JavaScript, Python, C, React, Node.js, Hardware components and software development related things. .**<br><br>
 
-- ⚡ Fun fact **i love mind games.**
+- ⚡ Fun fact :<br>**i love mind games.**<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
