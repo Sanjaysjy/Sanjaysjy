@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on :<br>**Node.js.**<br><br>
 
-- 🌱 I’m currently learning :<br>**Advanced AWS Services.**<br><br>
+- 🌱 I’m currently learning :<br>**AWS Services.**<br><br>
 
 - 👯 I’m looking to collaborate on :<br>**Fullstack projects**<br><br>
 
