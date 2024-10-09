@@ -18,7 +18,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sanjay4sjy)<br><br/>
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sanjay4sjy)<br><br/><br><br/>-->
+[![LinkedIn](<i class="cib-leetcode"></i>)]((https://leetcode.com/u/_sanjay__kumar_h/))<br><br/><br><br/>
 
 ## 💬 Languages and Tools:
 
