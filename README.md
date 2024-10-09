@@ -1,12 +1,12 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Sanjay Kumar H</h1>
-<h3 align="center">A passionate Full stack developer | MERN</h3>
+<h3 align="center">A passionate Python Full stack developer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysjy&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysjy" /> </p>
 
-- 🔭 I’m currently working on :<br>**Node.js.**<br><br>
+##- 🔭 I’m currently working on :<br>**Node.js.**<br><br>
 
 - 🌱 I’m currently learning :<br>**AWS Services.**<br><br>
 
