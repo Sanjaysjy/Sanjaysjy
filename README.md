@@ -8,11 +8,11 @@
 
 <!--##- 🔭 I’m currently working on :<br>**Node.js.**<br><br>-->
 
-- 🌱 I’m currently learning :<br>**AWS**<br><br>
+- 🌱 I’m currently learning :<br>**Artificial Intelligence and ML**<br><br>
 
 - 👯 I’m looking to collaborate on :<br>**Fullstack projects**<br><br>
 
-- 💬 Ask me about :<br>**JavaScript, Python, C, React, Node.js, Hardware components and software development related things. .**<br><br>
+- 💬 Ask me about :<br>**JavaScript, Python, React, AI , ML , DSA, Hardware components and software development related things. .**<br><br>
 
 - ⚡ Fun fact :<br>**i love mind games.**<br><br><br><br/>
 
