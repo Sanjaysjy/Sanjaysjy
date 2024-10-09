@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysjy&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysjy" /> </p>
 
-##- 🔭 I’m currently working on :<br>**Node.js.**<br><br>
+<!--##- 🔭 I’m currently working on :<br>**Node.js.**<br><br>-->
 
-- 🌱 I’m currently learning :<br>**AWS Services.**<br><br>
+- 🌱 I’m currently learning :<br>**AWS**<br><br>
 
 - 👯 I’m looking to collaborate on :<br>**Fullstack projects**<br><br>
 
