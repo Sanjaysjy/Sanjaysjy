@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Sanjay Kumar H</h1>
+
 <h3 align="center">A passionate Python Full stack developer </h3>
 
 
@@ -28,8 +29,6 @@
    
 &ensp;&ensp;&ensp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&ensp;&ensp;Py.lib&ensp;&ensp; <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>&ensp;&ensp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &ensp;&ensp; <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <br><br/>
   
-
-
   
   </p> <br><br/>
   
