@@ -34,10 +34,6 @@
   
 # 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysjy&show_icons=true&locale=en&layout=compact&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysjy&show_icons=true&locale=en&layout=compact&exclude_repo=repo1,repo2)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysjy&show_icons=true&locale=en&layout=compact)
 <br><br/>
 ![](https://github-readme-stats.vercel.app/api?username=sanjaysjy&show_icons=true&locale=en)<br><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysjy&)<br><br/>
