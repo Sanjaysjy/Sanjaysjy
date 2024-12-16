@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on :<br>**Fullstack projects**<br><br>
 
-- 💬 Ask me about :<br>**Python, AI , ML , DSA,JavaScript, React, Hardware components and software development related things. .**<br><br>
+- 💬 Ask me about :<br>** Python, AI , ML , DSA, JavaScript, React, Django Hardware components and software development related things. .**<br><br>
 
 - ⚡ Fun fact :<br>**i love mind games.**<br><br><br><br/>
 
