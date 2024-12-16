@@ -34,6 +34,7 @@
   
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysjy&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysjy&show_icons=true&locale=en&layout=compact)
+<br><br/>
 ![](https://github-readme-stats.vercel.app/api?username=sanjaysjy&show_icons=true&locale=en)<br><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysjy&)<br><br/>
