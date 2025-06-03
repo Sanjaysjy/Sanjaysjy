@@ -53,10 +53,8 @@
    
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="border: 2px solid black;"/>
-   </a>&ensp;&ensp;
-
+   </a>
 <br><br/>
-   
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border: 2px solid black;"/> 
    </a>&ensp;&ensp;&ensp; 
