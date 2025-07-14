@@ -20,9 +20,7 @@
 ## 🌐 Socials:
 [[Leetcode]](https://leetcode.com/u/_sanjay__kumar_h/)<br><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sanjay4sjy)<br><br/><br><br/>
-
 ## 💡 Skills & Tools
-
 **Languages:** Python, Bash, SQL, VBA  
 **Cloud & Infra:** AWS EC2, Lambda, S3, EventBridge  
 **DevOps:** Docker, GitHub Actions, Kubernetes (Minikube)  
